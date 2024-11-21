@@ -231,6 +231,8 @@ export const Example = () => {
 
 [![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-blue?logo=codesandbox)](https://codesandbox.io/embed/react-codemirror-example-codemirror-6-hook-yr4vg?fontsize=14&hidenavigation=1&theme=dark)
 
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/uiwjs/react-codemirror)
+
 ```jsx
 import { useEffect, useMemo, useRef } from 'react';
 import { useCodeMirror } from '@uiw/react-codemirror';
